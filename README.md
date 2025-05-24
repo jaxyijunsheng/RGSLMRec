@@ -1,6 +1,6 @@
 # RGSLMRec
 
-The official Pytorch implementation of our paper Robust Item-Item Graph Structure Learning for Multimedia Recommendation. Some baselines are based on the original author’s implementation.
+The official Pytorch implementation of our paper Learning Invariant Reliability under Diverse Contexts for Robust Multimedia Recommendation.
 
 Datasets:
 
