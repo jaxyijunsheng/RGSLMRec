@@ -4,9 +4,9 @@ The official Pytorch implementation of our paper Robust Item-Item Graph Structur
 
 Datasets:
 
-Amazon Baby: https://drive.google.com/file/d/1aNM0Z6ZskcHLAzOXLEFBu6AQddraSEi3/view?usp=drive_link
+Amazon Baby: https://drive.google.com/file/d/xxxx
 
-Amazon Beauty: https://drive.google.com/file/d/1wJQ2LD2jT2aEVyY6FVBpE717o9eXCBRf/view?usp=drive_link
+Amazon Beauty: https://drive.google.com/file/d/xxxx
 
 How to use?
 
